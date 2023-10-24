@@ -96,9 +96,7 @@
                 U slobodno vreme, između ostalog, volim da se nađem sa prijateljima, ali najčešće uživam u samoći jer uvek nađem nešto da radim
                 za sebe i korisno ispusnim vreme. Takođe veoma volim odlazak u pozorište sa prijateljima.
                 Trenutno studiram informatiku na visokoj tehničkoj školi u Subotici i sebe vidim jednog dana
-                na poziciji frontend ili backand developera u nekoj od it kompanija u Subotici, mada bih više volela
-                da radim od kuće kao freelancer. Kada su u pitanju neki školski projekti ili posao, po prirodi sam više za samostalni rad
-                nego za grupni jer se mnogo bolje snalazim kada radim nešto sama i više sam opuštenija.
+                na poziciji frontend ili backand developera u nekoj od it kompanija u Subotici.
             </h3>
             <img src="natasa.jpg" alt="slika" class="img_b44-1">
         </div>
